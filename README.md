@@ -1,2 +1,2 @@
 ### Euler projects
-<a href ="https://projecteuler.net/">Euler projects <a/>
+<a href ="https://projecteuler.net/">Website <a/>
